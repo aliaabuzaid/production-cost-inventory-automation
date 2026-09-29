@@ -1,7 +1,6 @@
 # Automation Workflows
 
-This folder documents the business automation flows used in the
-Production Cost & Inventory Automation system.
+This folder documents the core business automation flows designed for the Production Cost & Inventory Automation system.
 
 ## Core Workflows
 
