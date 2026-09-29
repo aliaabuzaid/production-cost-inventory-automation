@@ -111,7 +111,9 @@ The system can calculate production and product costs based on:
                     │ Profit & Loss   │
                     └─────────────────┘
 ```
+## 🏗️ System Architecture
 
+![Production Cost & Inventory Automation Architecture](docs/production-cost-architecture.png)
 ## 🛠️ Tech Stack
 
 | Technology | Purpose                                |
